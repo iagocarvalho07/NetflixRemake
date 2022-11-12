@@ -1,4 +1,6 @@
 # NetflixRemake
+https://user-images.githubusercontent.com/71970033/201498538-27306c71-b70c-4980-8fd6-0ac0774027b8.mp4
+
 
 projeto Realizado durante o curso Android Express, minitrado pelo professor thiago aguiar 
 
