@@ -1,0 +1,2 @@
+co/tiagoaguiar/netflixremake/BuildConfig.java
+ co.tiagoaguiar.netflixremake.BuildConfig
